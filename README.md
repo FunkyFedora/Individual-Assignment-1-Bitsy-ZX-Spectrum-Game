@@ -1,2 +1,3 @@
 # Individual-Assignment-1-Bitsy-ZX-Spectrum-Game
-Created by Jenna Ward
+Bitsy Game
+A Walk in The Woods - Created by Jenna Ward
